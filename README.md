@@ -70,9 +70,9 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 |Data|Luogo|Argomento|
 |----|-----|---------|
-|data 22 marzo 2021, 15:00-17:00|Online Teams|Computer, pensiero computazionale e strutture dati|
-|data 23 marzo 2021, 15:00-17:00|Online Teams|Algoritmi e computabilità|
-|data 24 marzo 2021, 17:00-19:00|Online Teams|Linguaggi di programmazione|
+|data 22 marzo 2021, 15:00-17:00|Online (Teams)|Computer, pensiero computazionale e strutture dati|
+|data 23 marzo 2021, 15:00-17:00|Online (Teams)|Algoritmi e computabilità|
+|data 24 marzo 2021, 17:00-19:00|Online (Teams)|Linguaggi di programmazione|
 |data 29 marzo 2021, 15:00-17:00|?|Cosa succede quando si clicca un un link: Il World Wide Web|
 |data 30 marzo 2021, 15:00-17:00|?|Cosa succede quando si clicca un un link: I protocolli di comunicazione|
 |data 31 marzo 2021, 17:00-19:00|?|Cosa succede quando si clicca un un link: Internet|
