@@ -58,8 +58,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 10. Le tecnologie informatiche nelle scienze umane
-   *  data 13 aprile 2021, 15:00-17:00
-   * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
+      *  data 13 aprile 2021, 15:00-17:00
+      * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
    <hr />
 
 11. Wrap-up
