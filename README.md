@@ -1,4 +1,4 @@
-# Informatica di base
+# Informatica di base N-Z
 
 Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso [Informatica di base (A-D)](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/458983) e [Informatica di base (E-M)](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/458984) della [Laurea in Lettere](https://corsi.unibo.it/laurea/lettere) dell'[Università di Bologna](http://www.unibo.it).
 
