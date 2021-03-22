@@ -14,10 +14,10 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
-1. Introduzione al corso
+1. Introduzione al corso [Slide](https://docs.google.com/presentation/d/1RvB63Mshgu-x72R53kPJqAER6pFKg1p7vaLR8NB8Ock/edit?usp=sharing)
    <hr />
    
-2. Computer, pensiero computazionale e strutture dati
+2. Computer, pensiero computazionale e strutture dati  [Slide lezione](https://docs.google.com/presentation/d/1nSroIiMt0cXfbHyj3m0wcCLgtbYD7sr3emTPW67NWKY/edit?usp=sharing)
    * data 22 marzo 2021, 15:00-17:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/01.pdf)
    <hr />
