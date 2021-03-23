@@ -22,7 +22,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/01.pdf)
    <hr />
 
-3. Algoritmi e computabilità
+3. Algoritmi e computabilità [Slide lezione](https://docs.google.com/presentation/d/166pcWNnGQLcsfOHH3Z51VvDlDfwaecyjZQ--gTCtZgM/edit?usp=sharing)
    *  data 23 marzo 2021, 15:00-17:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/02.pdf)
    <hr />
