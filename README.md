@@ -27,7 +27,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/02.pdf)
    <hr />
 
-4. Linguaggi di programmazione
+4. Linguaggi di programmazione [Slide lezione](https://docs.google.com/presentation/d/166pcWNnGQLcsfOHH3Z51VvDlDfwaecyjZQ--gTCtZgM/edit?usp=sharing)
    *  data 24 marzo 2021, 17:00-19:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/03.pdf)
    <hr />
