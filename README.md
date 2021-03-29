@@ -32,7 +32,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/03.pdf)
    <hr />
 
-5. Cosa succede quando si clicca un un link: Il World Wide Web
+5. Cosa succede quando si clicca un un link: Il World Wide Web [Slide lezione](https://docs.google.com/presentation/d/1ora2B-CwnbzN0iEY2SrG-Uz8cSdRtCYO2zDI4CpuikU/edit?usp=sharing)
    *  data 29 marzo 2021, 15:00-17:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/04.pdf)
    <hr />
@@ -73,9 +73,9 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 |data 22 marzo 2021, 15:00-17:00|Online (Teams)|Computer, pensiero computazionale e strutture dati|
 |data 23 marzo 2021, 15:00-17:00|Online (Teams)|Algoritmi e computabilità|
 |data 24 marzo 2021, 17:00-19:00|Online (Teams)|Linguaggi di programmazione|
-|data 29 marzo 2021, 15:00-17:00|?|Cosa succede quando si clicca un un link: Il World Wide Web|
-|data 30 marzo 2021, 15:00-17:00|?|Cosa succede quando si clicca un un link: I protocolli di comunicazione|
-|data 31 marzo 2021, 17:00-19:00|?|Cosa succede quando si clicca un un link: Internet|
+|data 29 marzo 2021, 15:00-17:00|Online (Teams)|Cosa succede quando si clicca un un link: Il World Wide Web|
+|data 30 marzo 2021, 15:00-17:00|Online (Teams)|Cosa succede quando si clicca un un link: I protocolli di comunicazione|
+|data 31 marzo 2021, 17:00-19:00|Online (Teams)|Cosa succede quando si clicca un un link: Internet|
 |data 7 aprile 2021, 17:00-19:00|?|Cosa succede quando si clicca un un link: Trasferire informazioni su Internet|
 |data 12 aprile 2021, 15:00-17:00|?|Cosa succede quando si clicca un un link: Le pagine web|
 |data 13 aprile 2021, 15:00-17:00|?|Le tecnologie informatiche nelle scienze umane|
