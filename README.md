@@ -37,7 +37,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/04.pdf)
    <hr />
 
-6. Cosa succede quando si clicca un un link: I protocolli di comunicazione
+6. Cosa succede quando si clicca un un link: I protocolli di comunicazione [Slide lezione](https://docs.google.com/presentation/d/1NNTbpjEd4F1AbWjy4fhjOH-BRAB58XDLFToR4Qfv3Lw/edit?usp=sharing)
    *  data 30 marzo 2021, 15:00-17:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/05.pdf)
    <hr />
