@@ -42,7 +42,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/05.pdf)
    <hr />
 
-7. Cosa succede quando si clicca un un link: Internet
+7. Cosa succede quando si clicca un un link: Internet [Slide lezione](https://docs.google.com/presentation/d/1HWVo0oNMYvvqtJHkRmVTn7KHfYQkuFwahdEmPnglaI4/edit?usp=sharing)
    *  data 31 marzo 2021, 17:00-19:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
    <hr />
