@@ -47,7 +47,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
    <hr />
 
-8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet
+8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet [Slide lezione](https://docs.google.com/presentation/d/1HWVo0oNMYvvqtJHkRmVTn7KHfYQkuFwahdEmPnglaI4/edit?usp=sharing)
    *  data 7 aprile 2021, 17:00-19:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
    <hr />
