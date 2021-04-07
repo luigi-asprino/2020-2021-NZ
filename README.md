@@ -47,7 +47,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/06.pdf)
    <hr />
 
-8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet [Slide lezione](https://docs.google.com/presentation/d/1HWVo0oNMYvvqtJHkRmVTn7KHfYQkuFwahdEmPnglaI4/edit?usp=sharing)
+8. Cosa succede quando si clicca un un link: Trasferire informazioni su Internet [Slide lezione](https://docs.google.com/presentation/d/1UHDPV8AJ3LAoYC60e75RYummRnH_rCiSzWM9jECTa0E/edit?usp=sharing)
    *  data 7 aprile 2021, 17:00-19:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
    <hr />
@@ -76,8 +76,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 |data 29 marzo 2021, 15:00-17:00|Online (Teams)|Cosa succede quando si clicca un un link: Il World Wide Web|
 |data 30 marzo 2021, 15:00-17:00|Online (Teams)|Cosa succede quando si clicca un un link: I protocolli di comunicazione|
 |data 31 marzo 2021, 17:00-19:00|Online (Teams)|Cosa succede quando si clicca un un link: Internet|
-|data 7 aprile 2021, 17:00-19:00|?|Cosa succede quando si clicca un un link: Trasferire informazioni su Internet|
-|data 12 aprile 2021, 15:00-17:00|?|Cosa succede quando si clicca un un link: Le pagine web|
-|data 13 aprile 2021, 15:00-17:00|?|Le tecnologie informatiche nelle scienze umane|
-|data 14 aprile 2021, 17:00-19:00|?|Wrap-up|
+|data 7 aprile 2021, 17:00-19:00|Online (Teams)|Cosa succede quando si clicca un un link: Trasferire informazioni su Internet|
+|data 12 aprile 2021, 15:00-17:00|Online (Teams)|Cosa succede quando si clicca un un link: Le pagine web|
+|data 13 aprile 2021, 15:00-17:00|Online (Teams)|Le tecnologie informatiche nelle scienze umane|
+|data 14 aprile 2021, 17:00-19:00|Online (Teams)|Wrap-up|
 
