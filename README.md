@@ -52,7 +52,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/07.pdf)
    <hr />
 
-9. Cosa succede quando si clicca un un link: Le pagine web
+9. Cosa succede quando si clicca un un link: Le pagine web [Slide lezione](https://docs.google.com/presentation/d/19d-Qlk_5RfzjzRWMxgbKtGzLjVwowx0-XXwVYfXpW4M/edit?usp=sharing)
    *  data 12 aprile 2021, 15:00-17:00
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
    <hr />
