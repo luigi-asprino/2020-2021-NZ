@@ -57,7 +57,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/08.pdf)
    <hr />
 
-10. Le tecnologie informatiche nelle scienze umane
+10. Le tecnologie informatiche nelle scienze umane [Slide lezione](https://docs.google.com/presentation/d/1SoQ5bKy_1fGaX-g02ARVbZAd89djaAsqHdkmvIpdL18/edit?usp=sharing)
       *  data 13 aprile 2021, 15:00-17:00
       * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
    <hr />
