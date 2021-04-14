@@ -62,7 +62,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
       * capitolo:  [PDF](https://basic-inf.github.io/2020-2021/chapters/09.pdf)
    <hr />
 
-11. Wrap-up
+11. Wrap-up [Slide lezione](https://docs.google.com/presentation/d/1II-RmcIqYFzn-I7BKDzLtdB5Ev8GOiU2-Ih0dEQfgH4/edit?usp=sharing)
     *  data 14 aprile 2021, 17:00-19:00
    
 
